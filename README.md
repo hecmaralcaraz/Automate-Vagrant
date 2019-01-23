@@ -1,5 +1,5 @@
 # Automate-Vagrant
-# Hèctor Martínez
+Hèctor Martínez
 
 This program automate vagrant's machines
 
