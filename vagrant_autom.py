@@ -37,13 +37,13 @@ def addbox():
             y = 1
         if x == "no":
             y = 1
-
+            
 def networkbox():
     '''Select network interface'''
     print ("test network")
-
+    
+    
 # Structure
-
 
 listbox()
 addbox()
