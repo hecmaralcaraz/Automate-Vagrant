@@ -4,5 +4,6 @@ Hèctor Martínez
 This program automate vagrant's machines
 
 Prerequisits:
---> Python > 3
---> Vagrant >= 2.2.3
+--> Linux (bash)
+--> Python > 3 \n
+--> Vagrant >= 2.2.3 
