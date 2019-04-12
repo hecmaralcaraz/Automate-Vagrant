@@ -122,3 +122,4 @@ print("**END**")
 
 
 # name_os , hostname , menu_network , ip , name_network , ram
+prueba1
